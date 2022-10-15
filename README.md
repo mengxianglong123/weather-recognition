@@ -25,7 +25,7 @@ train.py -- 训练模块
 
 ## 效果展示
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/c82985643aae40f2aa2c456db5da8296.gif#pic_center)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c82985643aae40f2aa2c456db5da8296.gif)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/4b0dc264d86c4410951431da19aee89b.gif#pic_center)
 
