@@ -15,3 +15,20 @@ train.py -- 训练模块
 
 ## 博客地址
 [https://blog.csdn.net/mengxianglong123/article/details/127330721](https://blog.csdn.net/mengxianglong123/article/details/127330721)
+
+## model文件夹中的模型
+
+> model文件夹中的文件太大，没法直接上传，放到了百度网盘里面
+
+链接：https://pan.baidu.com/s/1bPoDG-CBvEIK2Nh9bl9EIQ 
+提取码：yyzw
+
+## 效果展示
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c82985643aae40f2aa2c456db5da8296.gif#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/4b0dc264d86c4410951431da19aee89b.gif#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/c8042e61809e4c7f8f3140509fcc8106.gif#pic_center)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/d8fc78e9361043618fe5b09c920014f0.gif#pic_center)
