@@ -23,6 +23,11 @@ train.py -- 训练模块
 链接：https://pan.baidu.com/s/1bPoDG-CBvEIK2Nh9bl9EIQ 
 提取码：yyzw
 
+## 数据集地址
+链接：https://pan.baidu.com/s/1GAJQgwLigry3nDn0CFbzdA 
+提取码：f5dd 
+--来自百度网盘超级会员V5的分享
+
 ## 效果展示
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c82985643aae40f2aa2c456db5da8296.gif)
